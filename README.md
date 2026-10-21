@@ -1,6 +1,6 @@
 # Awesome-Photo-Video-Management
 
-# Top Photo & Video Management Ecosystem
+## Top Photo & Video Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Self-Hosted Backup, AI-Powered Discovery & Data Sovereignty*  
